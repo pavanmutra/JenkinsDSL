@@ -2,7 +2,7 @@ defaultTasks = ['clean', 'test']
 
 ext {
     jobDslVersion = '1.47'
-    jenkinsVersion = '1.642.1'
+    jenkinsVersion = '2.35'
 }
 
 apply plugin: 'groovy'
