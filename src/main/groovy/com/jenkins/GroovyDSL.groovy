@@ -1,4 +1,4 @@
-job('Booking Service Master Build and Test') {
+job('Master Build and Test') {
     scm {
         git {
             remote {
